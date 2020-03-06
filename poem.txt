@@ -3,5 +3,6 @@ Purple
 Pinkk
 Organge
 Bue
+Green
 Red
 These are the colors of the rainbow. 
